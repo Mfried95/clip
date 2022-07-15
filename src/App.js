@@ -1,6 +1,9 @@
 import React from "react"
 import Header from "./components/Header"
 import Maintop from "./components/Maintop"
+import Mainbot from "./components/Mainbot"
+import Footer from "./components/Footer"
+
 
 
 function App() {
@@ -9,6 +12,8 @@ function App() {
       <div className="container">
       <Header/>
       <Maintop/>
+      <Mainbot/>
+      <Footer/>
       </div>
 
     </div>

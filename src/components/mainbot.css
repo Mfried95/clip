@@ -1,0 +1,52 @@
+.mainbot-container{
+    margin-top: 7em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+article h2{
+    font-size: 2rem;
+}
+
+
+
+.workflow-container{
+    display: flex;
+    align-items: center;
+    margin: auto;
+    width: 75%;
+    gap: 5em;
+    text-align: center;
+    margin-top: 5em;
+}
+
+
+.workflow-container img{
+    width: 60px;
+}
+
+
+
+@media (max-width: 820px){
+    .workflow-container{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        align-content: center;
+        width: 90%;
+        
+    }
+
+
+    .workflow-container p{
+        margin: auto;
+    }
+
+
+
+
+}

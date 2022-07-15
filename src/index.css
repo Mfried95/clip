@@ -8,27 +8,35 @@ body{
   width: 100%;
   box-sizing: border-box;
   font-family: 'Bai Jamjuree', sans-serif;
+  overflow: none;
 }
 
 
 p{
   line-height: 1.5em;
+  color: hsl(201, 11%, 66%);
 }
+
+h2{
+  color: hsl(210, 10%, 33%);
+}
+
 
 .contianer{
   width: 100%;
   padding: 0;
   margin: 0;
-  overflow: hidden;
+  overflow: none;
 }
-
-
 
 
 @media (max-width: 820px){
 
 .container{
   width: 100%;
+  min-width: 290px;
+  overflow: none;
 }
+
 
 }

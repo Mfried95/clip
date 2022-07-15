@@ -1,0 +1,28 @@
+
+.button-contianer{
+    display: flex;
+    gap: 1em;
+}
+
+button{
+    padding: 1em 2em;
+    border-radius: 2rem;
+    border: none;
+    margin-bottom: 2em;
+    color: white;
+    cursor: pointer;
+}
+
+button:hover{
+    color: black;
+    background-color: white;
+}
+
+
+.ios{
+    background-color: hsl(140, 66%, 44%);
+}
+
+.mac{
+    background-color: hsl(233, 100%, 69%);
+}

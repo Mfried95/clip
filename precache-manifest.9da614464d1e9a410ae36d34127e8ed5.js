@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "7440e4a2cff8caf8f86a",
-    "url": "/clip/static/css/main.36f8f599.chunk.css"
+    "revision": "9bd71c4a8c084a56294e",
+    "url": "/clip/static/css/main.38c78965.chunk.css"
   },
   {
-    "revision": "7440e4a2cff8caf8f86a",
-    "url": "/clip/static/js/main.7440e4a2.chunk.js"
+    "revision": "9bd71c4a8c084a56294e",
+    "url": "/clip/static/js/main.9bd71c4a.chunk.js"
   },
   {
-    "revision": "b16611b3ab38568fd369",
-    "url": "/clip/static/js/1.b16611b3.chunk.js"
+    "revision": "9a46a1d5c9386365539a",
+    "url": "/clip/static/js/1.9a46a1d5.chunk.js"
   },
   {
     "revision": "90f1a1d5a33259741ec9",
@@ -40,6 +40,18 @@ self.__precacheManifest = [
     "url": "/clip/static/media/icon-preview.ee6850bc.svg"
   },
   {
+    "revision": "99ef83bcd798a76238f44aee35ed3f7f",
+    "url": "/clip/static/media/icon-facebook.99ef83bc.svg"
+  },
+  {
+    "revision": "799c9975d592063e2995e272d7344607",
+    "url": "/clip/static/media/icon-twitter.799c9975.svg"
+  },
+  {
+    "revision": "0f2e9e2537a99944fd45700c0931028c",
+    "url": "/clip/static/media/icon-instagram.0f2e9e25.svg"
+  },
+  {
     "revision": "806276512d2662e155c44b2cc5c98bc1",
     "url": "/clip/static/media/bg-header-mobile.80627651.png"
   },
@@ -48,7 +60,7 @@ self.__precacheManifest = [
     "url": "/clip/static/media/bg-header-desktop.df6601b0.png"
   },
   {
-    "revision": "7089a79fb7769df4ee57e306ec92c8aa",
+    "revision": "340f49d48f6fd8dae32b96b402e177af",
     "url": "/clip/index.html"
   }
 ];

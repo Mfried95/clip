@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "ecbdd94e6b30298ea1fe",
-    "url": "/clip/static/css/main.1bcb52c0.chunk.css"
+    "revision": "09703bb5d842331d1945",
+    "url": "/clip/static/css/main.1d366b38.chunk.css"
   },
   {
-    "revision": "ecbdd94e6b30298ea1fe",
-    "url": "/clip/static/js/main.ecbdd94e.chunk.js"
+    "revision": "09703bb5d842331d1945",
+    "url": "/clip/static/js/main.09703bb5.chunk.js"
   },
   {
     "revision": "16d3813476f7dfa3da86",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/clip/static/media/bg-header-desktop.df6601b0.png"
   },
   {
-    "revision": "33b174762d64bacee49261a33f5eb147",
+    "revision": "a6103e507d45e70e5ea495a4b4104b47",
     "url": "/clip/index.html"
   }
 ];
